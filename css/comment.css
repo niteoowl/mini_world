@@ -1,0 +1,12 @@
+.player-turn{
+    color: blue;
+}
+.robot-turn{
+    color:rgb(255, 145, 0);
+}
+.error{
+    color:red;
+}
+.black{
+    color:black;
+}
